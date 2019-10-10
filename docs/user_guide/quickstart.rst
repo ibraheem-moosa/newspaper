@@ -283,6 +283,7 @@ of popular news source urls.. In case you need help choosing a news source!
       uk              Ukrainian
       sw              Swahili
       bg              Bulgarian
+      bn              Bangla
       hr              Croatian
       ro              Romanian
       sl              Slovenian
